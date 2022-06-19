@@ -12,4 +12,5 @@ public interface MobileConfig extends Config {
     String project();
     String build();
     String name();
+    String baseUrl();
 }
