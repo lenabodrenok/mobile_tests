@@ -1,6 +1,6 @@
 package guru.qa.helpers;
 
-import guru.qa.owner.MobileConfig;
+import guru.qa.config.MobileConfig;
 import org.aeonbits.owner.ConfigFactory;
 import static io.restassured.RestAssured.given;
 import static java.lang.String.format;

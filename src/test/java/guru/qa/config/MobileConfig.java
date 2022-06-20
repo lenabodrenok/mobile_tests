@@ -1,4 +1,4 @@
-package guru.qa.owner;
+package guru.qa.config;
 
 import org.aeonbits.owner.Config;
 
@@ -12,5 +12,4 @@ public interface MobileConfig extends Config {
     String project();
     String build();
     String name();
-    String baseUrl();
 }
